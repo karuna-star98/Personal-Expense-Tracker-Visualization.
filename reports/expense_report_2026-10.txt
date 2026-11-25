@@ -1,0 +1,78 @@
+================================================================
+  PERSONAL EXPENSE REPORT - OCT 2026
+  Generated 25 Nov 2026, 18:03
+================================================================
+
+SUMMARY
+----------------------------------------------------------------
+  Total spend            :        ₹51,805
+  Income                 :        ₹67,000
+  Savings                :        ₹15,195   (22.7% savings rate)
+  Average daily spend    :         ₹1,671
+  Expense transactions   :             52
+  Highest category       : Shopping (₹16,796, 32%)
+  Financial health score : 83/100 (Excellent)
+
+CATEGORY-WISE SPENDING
+----------------------------------------------------------------
+  Shopping                   ₹16,796   32.4%  (7 txns)
+  Rent & Housing             ₹15,200   29.3%  (2 txns)
+  Food & Dining               ₹6,143   11.9%  (17 txns)
+  Transport                   ₹5,219   10.1%  (13 txns)
+  Bills & Utilities           ₹2,755    5.3%  (3 txns)
+  Groceries                   ₹1,878    3.6%  (3 txns)
+  Health & Fitness            ₹1,750    3.4%  (2 txns)
+  Entertainment               ₹1,664    3.2%  (4 txns)
+  Personal Transfers            ₹400    0.8%  (1 txns)
+
+PAYMENT METHODS
+----------------------------------------------------------------
+  UPI                        ₹25,798   49.8%
+  Credit Card                ₹17,325   33.4%
+  Net Banking                 ₹6,497   12.5%
+  Debit Card                  ₹1,138    2.2%
+  Cash                        ₹1,047    2.0%
+
+BUDGET STATUS
+----------------------------------------------------------------
+  Shopping                 ₹16,796 / ₹5,000      336%  Over budget
+  Transport                 ₹5,219 / ₹4,000      130%  Over budget
+  Rent & Housing           ₹15,200 / ₹15,200     100%  Warning
+  Food & Dining             ₹6,143 / ₹6,500       95%  Warning
+  Entertainment             ₹1,664 / ₹1,800       92%  Warning
+  Bills & Utilities         ₹2,755 / ₹3,000       92%  Warning
+  Health & Fitness          ₹1,750 / ₹3,000       58%  On track
+  Groceries                 ₹1,878 / ₹3,500       54%  On track
+  Personal Transfers          ₹400 / ₹1,500       27%  On track
+  Education                     ₹0 / ₹1,000        0%  On track
+  Travel                        ₹0 / ₹3,000        0%  On track
+
+ALERTS
+----------------------------------------------------------------
+  ! OVER: Shopping is ₹11,796 over its ₹5,000 budget (336% used).
+  ! OVER: Transport is ₹1,219 over its ₹4,000 budget (130% used).
+  ! WARNING: Rent & Housing has used 100% of its budget (₹0 left).
+  ! WARNING: Food & Dining has used 95% of its budget (₹357 left).
+  ! WARNING: Entertainment has used 92% of its budget (₹136 left).
+  ! WARNING: Bills & Utilities has used 92% of its budget (₹245 left).
+
+KEY INSIGHTS
+----------------------------------------------------------------
+  * You spent ₹51,805 in Oct 2026; the biggest category was Shopping at ₹16,796 (32% of spend).
+  * You saved ₹15,195 - a savings rate of 23%, above the 20% rule of thumb.
+  * Average daily spend was ₹1,671 across 31 days.
+  * Spending rose 19% versus Sep 2026.
+  * Biggest increase vs last month: Shopping (+₹9,557).
+  * Wed is your most expensive day of the week (average ₹2,934).
+  * Largest one-off expense: ₹7,999 on 'Amazon.in - Festive Sale Smart Watch' (28 Oct 2026).
+  * Over budget in 2 categories; worst is Shopping by ₹11,796.
+  * Close to the limit: Rent & Housing, Food & Dining, Entertainment, Bills & Utilities.
+  * 8 recurring payments detected costing about ₹2,42,764 per year (largest: Rent Flat Landlord).
+  * Unusual expense: ₹7,999 on 'Amazon.in - Festive Sale Smart Watch' is 5.8x your typical Shopping transaction.
+
+FORECAST - Nov 2026
+----------------------------------------------------------------
+  Expected spend (weighted 3-month average): ₹47,991
+  Linear-trend cross-check                 : ₹43,786
+
+================================================================

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local database (re-created by `python main.py run-all`)
+db/*.db
+db/*.sqlite
+
+# Secrets / editor / OS
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# NOTE: outputs/, images/ and reports/ are intentionally COMMITTED - they are your proof of work.

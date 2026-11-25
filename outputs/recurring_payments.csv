@@ -1,0 +1,9 @@
+merchant,category,frequency,avg_amount,occurrences,last_date,next_expected,annual_cost,type
+Rent Flat Landlord,Rent & Housing,Monthly,14000.0,13,2026-11-02,2026-12-03,168000.0,Fixed
+Cult.Fit Gym Membership,Health & Fitness,Monthly,1500.0,13,2026-11-07,2026-12-08,18000.0,Fixed
+Msedcl Electricity Bill,Bills & Utilities,Monthly,1414.31,13,2026-11-18,2026-12-19,16971.69,Variable
+Society Maintenance Charges,Rent & Housing,Monthly,1200.0,13,2026-11-03,2026-12-04,14400.0,Fixed
+Act Fibernet Broadband,Bills & Utilities,Monthly,999.0,13,2026-11-05,2026-12-06,11988.0,Fixed
+Netflix Subscription,Entertainment,Monthly,649.0,12,2026-10-12,2026-11-12,7788.0,Fixed
+Jio Prepaid Mobile,Bills & Utilities,Monthly,349.0,13,2026-11-10,2026-12-11,4188.0,Fixed
+Spotify Premium,Entertainment,Monthly,119.0,12,2026-10-15,2026-11-15,1428.0,Fixed
